@@ -1,0 +1,3 @@
+pygame
+gtts
+screen_brightness_control
