@@ -7,7 +7,7 @@ What do you need to do before using this scrypt:
 1) Install python (ver. 3.x)
 2) Install pip
 3) Run conf.py
-4) Input some params in System_info.py (such as name, max and min brightness value and etc.)
+4) Input some params in Brightness.py (such as name, max and min brightness value and etc.)
 
 File "requirements.txt" consists list of necessary libraries which can be install with conf.py.
 
