@@ -7,7 +7,7 @@ from datetime import datetime
 from screen_brightness_control import get_brightness, set_brightness
 
 
-your_name = "Alexander"  # your name (nickname) for voice assistant
+your_name = "XXX"  # your name (nickname) for voice assistant
 time_check = 3600  # time (in secs) after script will check your current brightness and change it if necessary
 max_brightness = 60  # max value brightness (in percents)
 min_brightness = 30  # min value brightness (in percents)
