@@ -1,5 +1,3 @@
-God damn.
-
 This scrypt for auto brightness control. The scrypt has voice assistant. You should move this script to auto-upload folder.
 
 What do you need to do before using this scrypt:
